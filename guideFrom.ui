@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>guideFrom</class>
+ <widget class="QWidget" name="guideFrom">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>491</width>
+    <height>356</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>开始</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="0" column="0">
+    <widget class="QPushButton" name="onebtn">
+     <property name="minimumSize">
+      <size>
+       <width>150</width>
+       <height>80</height>
+      </size>
+     </property>
+     <property name="text">
+      <string>了解冷挤压强化技术</string>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="1">
+    <widget class="QPushButton" name="twobtn">
+     <property name="minimumSize">
+      <size>
+       <width>150</width>
+       <height>80</height>
+      </size>
+     </property>
+     <property name="text">
+      <string>开缝衬套冷挤压工艺硬件组成</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="0">
+    <widget class="QPushButton" name="threebtn">
+     <property name="minimumSize">
+      <size>
+       <width>150</width>
+       <height>80</height>
+      </size>
+     </property>
+     <property name="text">
+      <string>开缝衬套冷挤压工艺试验过程</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="1">
+    <widget class="QPushButton" name="fourbtn">
+     <property name="minimumSize">
+      <size>
+       <width>150</width>
+       <height>80</height>
+      </size>
+     </property>
+     <property name="text">
+      <string>开缝衬套的制备技术</string>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="0">
+    <widget class="QPushButton" name="fivebtn">
+     <property name="minimumSize">
+      <size>
+       <width>150</width>
+       <height>80</height>
+      </size>
+     </property>
+     <property name="text">
+      <string>开缝衬套冷挤压强化工艺参数</string>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="1">
+    <widget class="QPushButton" name="sixbtn">
+     <property name="minimumSize">
+      <size>
+       <width>150</width>
+       <height>80</height>
+      </size>
+     </property>
+     <property name="text">
+      <string>开缝衬套应力应变情况分析</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
